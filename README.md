@@ -19,6 +19,10 @@ O objetivo da página de doação de alimentos é conectar doadores e beneficiá
 - Beneficiário: é uma pessoa física que visualiza os pontos de doação de alimentos e pode solicitar ou retirar os alimentos. Um beneficiário pode criar, editar e excluir seus dados de cadastro, bem como filtrar e ordenar os pontos de doação de acordo com seus critérios.
 - Administrador: é uma entidade responsável pelo gerenciamento da página de doação de alimentos. Um administrador pode criar, editar e excluir os dados de todos os doadores e beneficiários, bem como monitorar e avaliar o funcionamento da página.
 
+## Páginas 
+![TP3D3OCm38NldiBYpWeLX1yuie95N1g99fAJ3j1HgXuwGIV8OgtW4Ah2yPE_zvxamWUISBlE83m6ijFCc2csV3QZ8J4kG_9ORgz3V4p64ch6Fr5jnNWNtjSgs7gr8-raETG7GzfHVCNdccvsHtHgQN_g1sU3ywdbpHuPXOCHqhG4keFPDReeFK29kPZf4l8JAb09AgWJDD0a](https://github.com/LaiFrance/PUC-MINAS-GRUPO-2-DOACAO-DE-ALIMENTOS/assets/91226847/cc8bcf94-b55d-4c09-be36-26fd43fe1c27)
+
+
 | Caso de uso | Ator | Descrição | Cenário |
 | :--- | :--- | :--- | :--- |
 | Cadastrar-se como doador | Doador | Um doador pode se cadastrar na página de doação de alimentos, fornecendo seus dados pessoais e os dados dos alimentos disponíveis para doação | - O doador acessa a página de doação de alimentos e clica no botão "Cadastrar-se como doador" <br> - O doador preenche um formulário com seus dados pessoais e clica no botão "Enviar" <br> - O doador recebe uma mensagem de confirmação de cadastro e é redirecionado para a sua área de doador <br> - O doador preenche um formulário com os dados dos alimentos disponíveis para doação e clica no botão "Enviar" <br> - O doador recebe uma mensagem de confirmação de cadastro dos alimentos e pode visualizar os seus dados na sua área de doador |
@@ -37,3 +41,6 @@ O objetivo da página de doação de alimentos é conectar doadores e beneficiá
 | Usabilidade | A página de doação de alimentos deve ser fácil de usar, com uma interface intuitiva, simples e agradável |
 | Disponibilidade | A página de doação de alimentos deve estar disponível 24 horas por dia, 7 dias por semana, com um mínimo de falhas e interrupções |
 | Manutenibilidade | A página de doação de alimentos deve ser fácil de modificar, corrigir e atualizar, seguindo boas práticas de desenvolvimento e documentação |
+
+
+     
