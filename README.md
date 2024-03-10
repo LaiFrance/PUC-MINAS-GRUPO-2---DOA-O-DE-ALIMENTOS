@@ -1,4 +1,9 @@
-# PUC-MINAS-GRUPO-2---DOA-O-DE-ALIMENTOS
+# Fluxo da página de doação de alimentos
+
+
+## Descrição geral
+
+O objetivo da página de doação de alimentos é conectar doadores e beneficiários de alimentos, facilitando o combate à fome e ao desperdício. O escopo da página é permitir que diferentes tipos de doadores (empresas, restaurantes e ONGs) se cadastrem para doar alimentos, e que beneficiários (pessoas físicas) visualizem os pontos de doação de alimentos e possam solicitar ou retirar os alimentos.
 
 | Elemento | Descrição |
 | :--- | :--- |
@@ -7,6 +12,12 @@
 | Casos de uso | As ações que os atores podem realizar no sistema |
 | Cenários | As sequências de passos que descrevem como os casos de uso são executados |
 | Requisitos não funcionais | As características de qualidade do sistema |
+
+## Atores
+
+- Doador: é uma entidade que se cadastra para doar alimentos, podendo ser uma empresa, um restaurante ou uma ONG. Um doador pode criar, editar e excluir seus dados de cadastro, bem como os dados dos alimentos disponíveis para doação.
+- Beneficiário: é uma pessoa física que visualiza os pontos de doação de alimentos e pode solicitar ou retirar os alimentos. Um beneficiário pode criar, editar e excluir seus dados de cadastro, bem como filtrar e ordenar os pontos de doação de acordo com seus critérios.
+- Administrador: é uma entidade responsável pelo gerenciamento da página de doação de alimentos. Um administrador pode criar, editar e excluir os dados de todos os doadores e beneficiários, bem como monitorar e avaliar o funcionamento da página.
 
 | Caso de uso | Ator | Descrição | Cenário |
 | :--- | :--- | :--- | :--- |
